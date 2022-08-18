@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/ShipWreckCove/static/css/main.7581cba3.css",
+    "main.js": "/ShipWreckCove/static/js/main.ab62121f.js",
+    "static/media/fitness.png": "/ShipWreckCove/static/media/fitness.e5456b5fc9acc7410a6a.png",
+    "static/media/background2.jpg": "/ShipWreckCove/static/media/background2.c1f74b37161ea949afb3.jpg",
+    "static/media/agency2.jpg": "/ShipWreckCove/static/media/agency2.e18bcd096a0821a1cac2.jpg",
+    "static/media/agency4.jpg": "/ShipWreckCove/static/media/agency4.c6bf14084ac9be476544.jpg",
+    "static/media/css.png": "/ShipWreckCove/static/media/css.d3bbd414b957d8d7dc79.png",
+    "static/media/python2.png": "/ShipWreckCove/static/media/python2.d3bbd414b957d8d7dc79.png",
+    "static/media/cryptorafting.jpg": "/ShipWreckCove/static/media/cryptorafting.3c6eaab2872906d0e4ea.jpg",
+    "static/media/cryptojack.jpg": "/ShipWreckCove/static/media/cryptojack.a5bd18157fd15456b284.jpg",
+    "static/media/figma.jpg": "/ShipWreckCove/static/media/figma.ef81e58c05027d042607.jpg",
+    "static/media/team2.jpg": "/ShipWreckCove/static/media/team2.cea22e4609aa383d03e8.jpg",
+    "static/media/studio1.webp": "/ShipWreckCove/static/media/studio1.8c98d3d53935f5a223d7.webp",
+    "static/media/studio3.webp": "/ShipWreckCove/static/media/studio3.d08f267273f573b65641.webp",
+    "static/media/team1.jpg": "/ShipWreckCove/static/media/team1.560198b4542fd9afd2a2.jpg",
+    "static/media/studio2.webp": "/ShipWreckCove/static/media/studio2.d3de64d74506156b4041.webp",
+    "static/media/mind.jpg": "/ShipWreckCove/static/media/mind.4f4453e2f75ddd3cc693.jpg",
+    "static/media/skull.png": "/ShipWreckCove/static/media/skull.d63d9a4aa849ec7fc59d.png",
+    "static/media/global.png": "/ShipWreckCove/static/media/global.5dcc9d57d52e10e29e0a.png",
+    "static/media/treasure.png": "/ShipWreckCove/static/media/treasure.960ec56e0d10cbd8856c.png",
+    "static/media/box.png": "/ShipWreckCove/static/media/box.5d51d527096e8be1b5ce.png",
+    "static/media/python.png": "/ShipWreckCove/static/media/python.a0e530de3835ece89008.png",
+    "static/media/video_production.png": "/ShipWreckCove/static/media/video_production.fa15dc4215246c38c28f.png",
+    "static/media/nexus.jpg": "/ShipWreckCove/static/media/nexus.617a70859a3dd218c6c5.jpg",
+    "static/media/artificial_intelligence.png": "/ShipWreckCove/static/media/artificial_intelligence.55b84ebd45f43cbddb63.png",
+    "static/media/emergency.png": "/ShipWreckCove/static/media/emergency.4b05659735cd28ff8b5e.png",
+    "static/media/DU.jpg": "/ShipWreckCove/static/media/DU.d397e595972dc491fca0.jpg",
+    "static/media/ship.png": "/ShipWreckCove/static/media/ship.49061eecad239e283e5f.png",
+    "static/media/3dAnimation.png": "/ShipWreckCove/static/media/3dAnimation.84cf516e22c017ef243c.png",
+    "index.html": "/ShipWreckCove/index.html",
+    "main.7581cba3.css.map": "/ShipWreckCove/static/css/main.7581cba3.css.map",
+    "main.ab62121f.js.map": "/ShipWreckCove/static/js/main.ab62121f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7581cba3.css",
+    "static/js/main.ab62121f.js"
+  ]
+}
