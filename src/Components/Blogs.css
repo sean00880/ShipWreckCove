@@ -1,0 +1,65 @@
+.Blogs{ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    background-color: white;
+    border-radius: 13px 50px 17px 40px;
+    padding: 3rem .1rem;
+    color: black;
+    margin: 10px 10px;
+    width: 75%;
+    cursor: pointer;
+}
+
+.card .links{
+    font-size: 23px;
+}
+
+.card h5{
+    word-wrap: break-word;
+}
+
+.card:hover {
+    background: black;
+    color: white;
+    border: 1px solid rgb(221, 218, 6);
+}
+
+.Blogs:focus {
+    display: flex;
+    flex-direction: column;
+}
+
+section{
+    background-color: rgba(0, 0, 0, 0.714);
+}
+
+.card p{
+    padding-top: 3.3rem;
+    line-height: 150%;
+    padding: 3.3rem .5rem;
+    border-radius:13px 50px 17px 40px;
+    background: #0a0a0a;
+    font-size: 1.3rem;
+}
+
+.card h2{
+    text-align: center;
+    font-size: 36px;
+    padding: 13px 0;
+}
+
+.Blogs img{
+    width: 100%;
+    object-fit: cover;
+    height: 52vh;
+}
+
+/*
+.expand2{
+
+}*/
