@@ -44,7 +44,7 @@ function ServicesSection() {
         <ServiceCardStyled theme={theme}>
             <div className="s-item-con">
                 <img src={globalTeaching} alt="" />
-                <h4>BSC Gems</h4>
+                <h4>Gems & Pinned Posts</h4>
                 <p>
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
                             Ducimus modi consequuntur praesentium, veritatis nemo sint.

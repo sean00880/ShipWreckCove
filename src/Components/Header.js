@@ -14,7 +14,7 @@ function Header() {
     const [fix, setFix] = useState(false)
     return (
         <HeaderStyled theme={theme}>
-            <div className="NavBar">
+            <div className="NavBar --var(ColorBg)">
             <NavBar />
             <MobileNavBar/>
             </div>
@@ -134,6 +134,13 @@ const HeaderStyled = styled.header`
         }
     }
     .mobileNavigation{
+        ul{
+            z-index: 10; 
+        background:black;
+        height: 70vw;
+        padding:70vw 0px;
+        }
+
         display: none;
         grid-template-columns: 100px 1fr auto;
         padding: 1rem 2rem;
@@ -172,9 +179,8 @@ const HeaderStyled = styled.header`
                 cursor: pointer;
                 margin: 0 5px;
                 a{
-                    margin: 10px;
+
                     letter-spacing: 3px;
-                    font-size:1.1rem;
                     font-size: 1.3rem;
                     padding: .8rem;
                     position: relative;
@@ -236,7 +242,7 @@ const HeaderStyled = styled.header`
             display: flex;
             flex-direction: column;
             position: absolute;
-            top: 100px;
+            top: 150px;
             right: -40px;
             witdth: 95%;
             background-color: #181818;
@@ -255,6 +261,8 @@ const HeaderStyled = styled.header`
             .nav-item{
                 cursor: pointer;
                 margin: 0 5px;
+                position: relative;
+                top: 180px;
                 a{
                     margin: 10px;
                     letter-spacing: 3px;
@@ -304,6 +312,8 @@ const HeaderStyled = styled.header`
             padding: 0px 0px;
             top:20px;
             margin-left: 50px;
+            position: relative;
+    right: 29px;
         }
         .nav-btns-con a{
             padding: 10px 10px;
@@ -392,7 +402,7 @@ const HeaderStyled = styled.header`
                 width: 350px;
                 height: 400px;
                 object-fit: cover;
-                left: 14%;
+                left: 6%;
                 top: -15%;
                 border-bottom-right-radius: 5px;
                 border-bottom-left-radius: 70px;
@@ -496,7 +506,7 @@ const HeaderStyled = styled.header`
             top:30px;
         }
         .header-content .right-content .h-img-2{
-            left:-99%;
+            left:-96%;
             top:50%;
             width: 100%;
         }
